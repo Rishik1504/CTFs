@@ -1,0 +1,20 @@
+Challenge Name:
+The Connection Challenge
+
+Challenge Type:
+Starter
+
+Challenge:
+connect to the ip of the server [18.222.210.252] at port 6722 to get the flag! flag format : shellctf{string} Author : 0xC0FFEE
+
+Hint: 
+if browser cant open it, try netcat ..
+
+Solution:
+Run a simple netcat cmd to connect to the ip and get the flag.
+
+cmd:
+nc 18.222.210.252 6722
+
+Flag:
+shellctf{c0nn3ct!0n_1s_th3_k3y}

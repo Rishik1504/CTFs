@@ -1,0 +1,24 @@
+Challenge Name:
+Finding Nemo
+
+Challenge Type:
+Starter
+
+Challenge:
+Unzip the given file to find 100 subfolders having some data and subfolders. flag is stored in a file named Nemo.
+
+Author : 0xC0FFEE
+
+Hint: 
+None
+
+Solution:
+Use basic terminal commands to find nemo.txt that has the flag.
+
+cmd:
+unzip Challenge.zip
+find . -name "nemo.txt"
+cd Challenge/64/8 && cat nemo.txt
+
+Flag:
+shellctf{n@v1gati0n_1s_n3c32633@ry}

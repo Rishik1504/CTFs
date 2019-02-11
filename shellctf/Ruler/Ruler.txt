@@ -1,0 +1,17 @@
+Challenge Name:
+Ruler
+
+Challenge Type:
+Starter
+
+Challenge:
+The Name says it all ...
+
+Hint: 
+None
+
+Solution:
+Going through the site, we can find the flag in the Rules and Notifications Page.
+
+Flag:
+shellctf{w3lc0m3_gUyS_we're_glad_y0u_are_here}

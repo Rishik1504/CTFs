@@ -1,0 +1,17 @@
+Challenge Name:
+Trivia
+
+Challenge Type:
+Starter
+
+Challenge:
+Join the group at https://t.me/joinchat/LkHAz1kxLKSWDew7JsxO7g to get the flag.
+
+Hint: 
+None
+
+Solution:
+After joining the group we can find the flag in the profile pic.
+
+Flag:
+

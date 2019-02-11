@@ -1,0 +1,17 @@
+Challenge Name:
+Reflections-of-the-past
+
+Challenge Type:
+Starter
+
+Challenge:
+None
+
+Hint: 
+None
+
+Solution:
+Mirror image of the flag in the image is the answer.
+
+Flag:
+shellctf{m1rr0rs_n3ver_1ie}

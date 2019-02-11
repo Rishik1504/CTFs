@@ -1,0 +1,25 @@
+Challenge Name:
+The Postman Challenge
+
+Challenge Type:
+Starter
+
+Challenge:
+URL = http:// ip : port /api/the-postman-challenge/
+
+ip = [18.222.210.252]
+port = 5000
+send a POST and a GET request to the given URL to get the flag.
+
+Hint: 
+None
+
+Solution:
+Send a POST and GET request to the given IP and Port to get the flag in 2 parts.
+
+cmd:
+http post http://18.222.210.252:5000/api/the-postman-challenge/
+http get http://18.222.210.252:5000/api/the-postman-challenge/ 
+
+Flag:
+shellctf{kn0w1ng_h0w_th3_Web_w0rKs}

@@ -1,0 +1,18 @@
+Challenge Name:
+Onions
+
+Challenge Type:
+Starter
+
+Challenge:
+http://wzenhldsuwl74plu.onion
+go on the link to get the flag.. if you can't find the website, go deep.
+
+Hint: 
+None
+
+Solution:
+Put the URL in Tor and the site that opens up has the flag.
+
+Flag:
+shellctf{T0r_1s_h3lpful_1f_y0u_want_t0_st@y_aN0nym0us}

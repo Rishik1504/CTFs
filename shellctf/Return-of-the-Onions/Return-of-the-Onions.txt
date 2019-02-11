@@ -17,7 +17,7 @@ Hint:
 None
 
 Solution:
-Open the link in Tor browser to get the flag.
+Open the link in Tor browser and follow the structure given to reach the html page. Now inspect the element to get the commented out flag.
 
 Flag:
-shellctf{T0r_1s_h3lpful_1f_y0u_want_t0_st@y_aN0nym0us}
+shellctf{S.T.A.Y_h1dd3n}

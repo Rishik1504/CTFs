@@ -1,0 +1,19 @@
+Challenge Name:
+Characters-and-strings
+
+Challenge Type:
+Starter
+
+Challenge:
+Bob has run the provided file "code.py" on the flag and the output is given.. can you figure out the flag ?
+
+Author : 0xC0FFEE
+
+Hint: 
+ASCII
+
+Solution:
+Run the given python script to convert the numbers to ASCII to get the flag.
+
+Flag:
+shellctf{CHar@ct3r$_4Nd_str1ngs}
