@@ -1,0 +1,17 @@
+Challenge Name:
+1 or 0
+
+Challenge Type:
+Web
+
+Challenge:
+http://shellctf.ml/1or0.html
+
+Hint: 
+None
+
+Solution:
+When we inspect the HTML element, we find there is a hidden field with value 0. So we delete the hidden parameter and change the 0 to 1 to get the flag.
+
+Flag:
+shellctf{y3s_0ne_1s_gr34ter_th4n_Z3r0}

@@ -1,0 +1,22 @@
+Challenge Name:
+Bad Boy?
+
+Challenge Type:
+Forensics
+
+Challenge:
+Can you file the hidden file?
+
+Flag for this challenge will be of the form: SHELL_CTF{string}
+
+Hint:
+None
+
+Solution:
+Open the PNG in ghex Hex editor and search for the flag.
+
+cmd:
+ghex TrueRandom2.png
+
+Flag:
+SHELL_CTF{B1nwAlK_1s_bAd_B0y}

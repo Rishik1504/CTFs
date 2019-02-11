@@ -1,0 +1,17 @@
+Challenge Name:
+Not Allowed
+
+Challenge Type:
+Web
+
+Challenge:
+http://shellctf.ml/na.html
+
+Hint: 
+None
+
+Solution:
+The input field and submit have been disabled in the HTML script. Simply backspace the hidden parameter to gain access to the fields and as said in the website, write admin in the text field to get access to the flag.
+
+Flag:
+shellctf{dis4bl3d_n0t_dis4bl3d_y0u_fr0m_g33tt1ng_th3_fl4g}

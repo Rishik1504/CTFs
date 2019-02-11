@@ -1,0 +1,17 @@
+Challenge Name:
+R4nd0m
+
+Challenge Type:
+Web
+
+Challenge:
+Juva got some r4nd0m characters in a CTF.... Can you help him 0ut? http://shellctf.ml/r4nd0m.html
+
+Hint: 
+None
+
+Solution:
+Inspect HTML to find commented out random characters. Apply the given Python script to get the flag.
+
+Flag:
+shellctf{rand0mly_placed_isnt_it}

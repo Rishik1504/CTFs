@@ -1,0 +1,23 @@
+Challenge Name:
+Find the terrorist!
+
+Challenge Type:
+Forensics
+
+Challenge:
+Find the country where this image is taken! We need to strike now!
+
+Flag for this challenge will be of the form: SHELL_CTF{country}
+
+Hint:
+None
+
+Solution:
+Get the EXIF data of the image and get the Latitude and Longitude from the EXIF data and google it to find the country.
+
+cmd:
+identify -verbose file.jpeg
+
+Flag:
+SHELL_CTF{syria}
+

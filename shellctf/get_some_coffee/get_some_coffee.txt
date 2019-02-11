@@ -1,0 +1,17 @@
+Challenge Name:
+get_some_c0ffee
+
+Challenge Type:
+Web
+
+Challenge:
+http://shellctf.ml/get.html 
+
+Hint: 
+None
+
+Solution:
+While inspecting the element you can see some code in <pre> tags. pre is used to display text as it is. So we remove it to uncover the field. Now, we can enter passwords. From inspecting the element, we can see "Dont forget the challenge name", so we get the password "c0ffee" from it and that gives us the flag.
+
+Flag:
+shellctf{c0ffee_is_nice_BTW_But_u_sh0uld_have_br0ught_it_earlier!}

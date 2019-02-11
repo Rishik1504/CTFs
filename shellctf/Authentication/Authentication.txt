@@ -1,0 +1,22 @@
+Challenge Name:
+Authentication
+
+Challenge Type:
+Forensics
+
+Challenge:
+Can you find the password used to authenticate to FTP service?
+
+Flag for this challenge will be of the form: SHELL_CTF{string}
+
+Hint: 
+Search for a tool that can be used to view and analyze pcap files.
+
+Solution:
+Open the .pcap file in wireshark and look for password.
+
+cmd:
+wireshark flag.pcap
+
+Flag:
+Pa$$w0rD@12345

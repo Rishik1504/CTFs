@@ -1,0 +1,17 @@
+Challenge Name:
+Somewhere
+
+Challenge Type:
+Web
+
+Challenge:
+http://shellctf.ml/somewhere.html
+
+Hint:
+None
+
+Solution:
+Inspect HTML code to find commented out flag.
+
+Flag:
+shellctf{r3m3mb3r!_d0nt_b3li3v3_st4ng3r5!!!} 

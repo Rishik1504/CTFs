@@ -1,0 +1,17 @@
+Challenge Name:
+Return-of-the-Caesar-Salad
+
+Challenge:
+[115, 105, 103, 111, 112, 104, 122, 109, 131, 124, 82, 116, 114, 129, 63, 125, 119, 112, 104, 116, 128, 138, 73, 138, 149]
+
+decrypt the string to get the flag.
+
+Hint: 
+Caesar Cipher with a twist or shift or key or update
+
+Solution:
+Convert to characters and shift each character behind by the value of its index.
+
+
+Flag:
+shellctf{sHift1ng_Valu3s}

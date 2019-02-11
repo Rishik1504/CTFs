@@ -1,0 +1,18 @@
+Challenge Name:
+OSINT
+
+Challenge Type:
+IRL
+
+Challenge:
+ #SHELLCTF
+Going with the trend...
+
+Hint: 
+Try being social ..
+
+Solution:
+Search #SHELLCTF on Twitter to find a post with a QR Code. Scanning the code leads you to a website which has the flag.
+
+Flag:
+shellctf{y0u_ar3_g00d_at_gath3ring}

@@ -1,0 +1,16 @@
+Challenge Name:
+Caesar Salad
+
+Challenge:
+furyypgs{fr3!_l0h_pna_u@px_gu1at5_g0b}
+
+Hint:
+THE NAME AND THE CATEGORY. SHIFT
+
+Solution:
+Write a simple caesar shift script and used grep.
+
+cmd: python caesar_shift.py | grep shell
+
+Flag:
+shellctf{se3!_y0u_can_h@ck_th1ng5_t0o}

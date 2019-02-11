@@ -1,0 +1,20 @@
+Challenge Name:
+XOR-basic-challenge
+
+Challenge:
+"5348454c4c4354465b5810527f41114f4e
+137f49157f561352597f5655114e1352604211455d"
+
+go get the flag. the string given is hex.
+
+Hint:
+Dont't be afraid of Hex.
+2 hex characters = 1 byte = 1 ASCII Character
+
+Solution:
+Used the given python script to first decode from hex to ASCII and then XOR it with [0..255] to find the flag.
+
+cmd: python XOR-basic-challenge.py
+
+Flag:
+shellctf{x0r_a1on3_i5_v3ry_vu1n3r@b1e}

@@ -1,0 +1,19 @@
+Challenge Name:
+Dot nd Dash
+
+Challenge Type:
+IRL
+
+Challenge:
+I found this file containing some characters. I think some aliens are trying to communicate with me. Can you find the decoded string?
+
+Note: Please submit the flag in required format (if not).
+
+Hint: 
+None
+
+Solution:
+Convert from Morse code to text using online morse code translate.
+
+Flag:
+shellctf{HUM4NSWEAREG0INGTOCONQU3RY0US00N}

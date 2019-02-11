@@ -1,0 +1,18 @@
+Challenge Name:
+A Microsoft font
+
+Challenge Type:
+IRL
+
+Challenge:
+This code is used somewhere!!! #wingdingsFont
+Flag format: shellctf{ code }
+
+Hint: 
+None
+
+Solution:
+Google around to find Q33NY from the #wingdingsFont hint.
+
+Flag:
+shellctf{Q33NY}

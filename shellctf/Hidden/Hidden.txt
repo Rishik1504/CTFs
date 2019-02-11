@@ -1,0 +1,17 @@
+Challenge Name:
+Hidden
+
+Challenge Type:
+Web
+
+Challenge:
+
+
+Hint: 
+
+
+Solution:
+Inspect HTML element of the main webpage to get the flag.
+
+Flag:
+shellctf{kn0w1ng_wh3re_t0_L0ok}

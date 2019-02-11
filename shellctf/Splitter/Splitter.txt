@@ -1,0 +1,17 @@
+Challenge Name:
+Splitter
+
+Challenge Type:
+Web
+
+Challenge:
+http://shellctf.ml/splitter.html 
+
+Hint: 
+None
+
+Solution:
+Splitting "c5F:Ch4113ng3;):D0NN0" (found while inspecting the HTML element) will give ["c5F", "Ch...", "D0NN0"] where c5F is username and D0NN0 is the password and the flag.
+
+Flag:
+shellfctf{D0NN0}

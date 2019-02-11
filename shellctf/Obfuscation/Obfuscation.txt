@@ -1,0 +1,20 @@
+Challenge Name:
+Obfuscation
+
+Challenge Type:
+Web
+
+Challenge:
+http://shellctf.ml/obfuscation_1.html
+
+Hint: 
+None
+
+Solution:
+Enter any random password to get to the HTML Code. Now the HTML code has used atob() function of JS that is used to encode a string into base64. We can decode the string using simple terminal command to get the flag.
+
+cmd:
+echo c2hlbGxjdGZ7dzMxMV90aDE1X2lzX3VyX2YxNGd9Cg== | base64 --decode
+
+Flag:
+shellctf{w311_th15_is_ur_f14g}

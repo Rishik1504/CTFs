@@ -1,0 +1,23 @@
+Challenge Name:
+Return of the Onions
+
+Challenge Type:
+Web
+
+Challenge:
+http://wzenhldsuwl74plu.onion
+
+visit this website and get the flag that is stored on the server .. the directory structure is given.
+
+folder :
+-index.html
+-super=>secret=>folder=>flag.html
+
+Hint: 
+None
+
+Solution:
+Open the link in Tor browser to get the flag.
+
+Flag:
+shellctf{T0r_1s_h3lpful_1f_y0u_want_t0_st@y_aN0nym0us}

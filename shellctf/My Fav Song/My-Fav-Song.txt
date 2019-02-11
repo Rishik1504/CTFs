@@ -1,0 +1,19 @@
+Challenge Name:
+My Fav Song
+
+Challenge Type:
+IRL
+
+Challenge:
+Th1s is one of my favourite song. #iPhoneX
+
+Note: Please submit the flag in required format (if not).
+
+Hint: 
+None
+
+Solution:
+Trim the audio to get the morse code audio in between and upload it to online audio to morse code translator to get the flag.
+
+Flag:
+

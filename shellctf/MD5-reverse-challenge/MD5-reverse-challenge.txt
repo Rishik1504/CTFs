@@ -1,0 +1,19 @@
+Challenge Name:
+MD5-reverse-challenge
+
+Challenge:
+bed128365216c019988915ed3add75fb
+
+the hash of the flag is given. flag is a string of 8 characters.
+
+hash-function is a standard OpenSSL function.
+
+flag format => shellctf{x} ; where hash(x) is given
+
+Hint : rainbow tables
+
+Solution:
+Used https://md5.gromweb.com/ to reverse the hash.
+
+Flag:
+shellctf{passw0rd}

@@ -1,0 +1,16 @@
+Challenge Name:
+Image_Hide
+
+Challenge:
+Can you recover the flag from the image?
+
+Flag for this challenge will be of the form: SHELL_CTF{string}
+
+Hint: 
+None
+
+Solution:
+Convert .jpeg to .txt and search for the flag.
+
+Flag:
+SHELL_CTF{JPEG_1mAg3s_G00d_@_hIdIng}
